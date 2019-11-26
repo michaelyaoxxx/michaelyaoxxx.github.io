@@ -11,7 +11,7 @@ github_repo: "https://github.com/michaelyaoxxx/michaelyaoxxx.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "保持好奇心，系统化知识体系，提升视野和格局!"
 #sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
